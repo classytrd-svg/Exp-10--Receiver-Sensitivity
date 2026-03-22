@@ -63,12 +63,5 @@ Steps:
 ---
 
 ## Report
-Your report should include:
-- Pre-lab calculations (attach handwritten work if applicable).  
-- Screenshots or displays of simulation results:  
-  - Power readings  
-  - BER analyzer output  
-  - Eye diagram  
-- Discussion of differences between analytical and simulation results.  
 
----
+<img width="1170" height="722" alt="image" src="https://github.com/user-attachments/assets/71c0ba0c-a694-4bbd-b463-7523ebc3c422" />
