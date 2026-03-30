@@ -1,4 +1,5 @@
 
+
 # Receiver-Sensitivity
 # Optical Receiver Sensitivity Analysis
 
@@ -14,6 +15,8 @@ If only thermal noise is considered, the sensitivity of a PIN photodiode-based r
 
 <img width="1126" height="718" alt="image" src="https://github.com/user-attachments/assets/22298a91-302d-41e4-b254-86c9b8ec704e" />
 
+
+<img width="521" height="328" alt="image" src="https://github.com/user-attachments/assets/01c28690-a1c4-441b-b93f-eaee43d3df94" />
 ---
 
 ## Calculations
@@ -63,5 +66,11 @@ Steps:
 ---
 
 ## Report
+<img width="1280" height="688" alt="image" src="https://github.com/user-attachments/assets/02da36a0-54db-4d65-a3da-1a968dc7b91c" />
 
-<img width="1170" height="722" alt="image" src="https://github.com/user-attachments/assets/71c0ba0c-a694-4bbd-b463-7523ebc3c422" />
+ 
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/c9a31e3f-b751-45cf-9542-fe52110ff841" />
+
+---
+## Result
+The sensitivity of a PIN photodiode-based optical receiver is determined by calculating the minimum received power necessary to achieve a given Q factor and also simulated result is compared with obtained analytically.
